@@ -1,0 +1,5 @@
+/home/jgiles/scripts/migration/nest/dir1 /home/jgiles/scripts/migration/dst
+/home/jgiles/scripts/migration/nest/dir2 /home/jgiles/scripts/migration/dst
+/home/jgiles/scripts/migration/nest/dir3 /home/jgiles/scripts/migration/dst
+/home/jgiles/scripts/migration/nest/dir4 /home/jgiles/scripts/migration/dst
+/chewbacka	/home/googler
